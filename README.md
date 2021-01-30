@@ -1,1 +1,1 @@
-# dojo blog by the net ninja
+# dojo blog from the net ninja full modern react tutorial on youtube
